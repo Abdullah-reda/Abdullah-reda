@@ -14,6 +14,7 @@
 - 🏢 I'm a Backend ewb developer
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with C++, C#, and ASP.net, or anything related to web development.
+- 🧠 When it comes to problem-solving, my Agile mindset shines through, adapting seamlessly to various methodologies. My knack for breaking down complex technical matters into clear, digestible explanations lets me bridge the gap between tech and business effortlessly.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my Linkedin Account at [Linkedin](https://www.linkedin.com/in/abdullah-reda-18829031b/) 
 
