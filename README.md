@@ -24,7 +24,7 @@
 <a href="https://web.telegram.org/k/" target="_blank"><img src="https://img.shields.io/badge/-Abdullah%20Reda-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-C++-05122A?style=flat&logo=javascript)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=javascript)&nbsp;
 ![C#](https://img.shields.io/badge/-C#%20-05122A?style=flat&logo=python)&nbsp;
 ![ASP.net](https://img.shields.io/badge/-ASP.net-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=sass)&nbsp;
