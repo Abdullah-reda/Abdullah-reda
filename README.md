@@ -15,7 +15,7 @@
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with C++, C#, and ASP.net, or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my Linkedin Account at [developer](https://www.linkedin.com/in/abdullah-reda-18829031b/) 
+- 👨‍💻 Check out my Linkedin Account at [Linkedin](https://www.linkedin.com/in/abdullah-reda-18829031b/) 
 
 ### Connect with Me :
 
