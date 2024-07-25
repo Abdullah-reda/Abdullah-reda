@@ -25,7 +25,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++)&nbsp;
-![C#](https://img.shields.io/badge/-C#%20-05122A?style=flat&logo=C#)&nbsp;
+![c#](https://img.shields.io/badge/-c#%20-05122A?style=flat&logo=c#)&nbsp;
 ![ASP.net](https://img.shields.io/badge/-ASP.net-05122A?style=flat&logo=ASP.net&logoColor=563D7C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
