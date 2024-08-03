@@ -24,6 +24,8 @@
 
 <a href="https://web.telegram.org/k/" target="_blank"><img src="https://img.shields.io/badge/-Abdullah%20Reda-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
+[![GitHub Abdullah-reda](https://img.shields.io/github/followers/Abdullah-reda?label=follow&style=social)](https://github.com/Abdullah-reda)
+
 ### 🛠 &nbsp;🚀 Some Tools I Use
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++)&nbsp;
 ![ASP.net](https://img.shields.io/badge/-ASP.net-05122A?style=flat&logo=ASP.net&logoColor=563D7C)&nbsp;
