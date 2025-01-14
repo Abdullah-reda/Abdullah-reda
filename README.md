@@ -21,9 +21,7 @@
 ### Connect with Me :
 
 <a href="[https://www.facebook.com/profile.php?id=100092264170349]" target="_blank"><img src="https://img.shields.io/badge/-Abdullah%20Reda-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-
 <a href="https://web.telegram.org/k/" target="_blank"><img src="https://img.shields.io/badge/-Abdullah%20Reda-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-
 <a href="[![GitHub Abdullah-reda](https://img.shields.io/github/followers/Abdullah-reda?label=follow&style=social)](https://github.com/Abdullah-reda)"/></a>
 
 ### 🛠 &nbsp;🚀 Some Tools I Use
